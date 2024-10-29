@@ -1,0 +1,10 @@
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH5\Bai6\bin\Debug\Bai6.exe.config
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH5\Bai6\bin\Debug\Bai6.exe
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH5\Bai6\bin\Debug\Bai6.pdb
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH5\Bai6\obj\Debug\Bai6.csproj.AssemblyReference.cache
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH5\Bai6\obj\Debug\Bai6.Form1.resources
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH5\Bai6\obj\Debug\Bai6.Properties.Resources.resources
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH5\Bai6\obj\Debug\Bai6.csproj.GenerateResource.cache
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH5\Bai6\obj\Debug\Bai6.csproj.CoreCompileInputs.cache
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH5\Bai6\obj\Debug\Bai6.exe
+D:\2022 - 2026\HOC KI 5\C#\TH\BuoiTH5\Bai6\obj\Debug\Bai6.pdb
